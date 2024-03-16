@@ -1,0 +1,2 @@
+# devops-egitim
+ odev
